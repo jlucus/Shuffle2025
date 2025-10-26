@@ -1,0 +1,4 @@
+plotly
+plotly-express
+pandas
+nbformat>=4.2.0
