@@ -5,6 +5,10 @@
 This repository contains a **Python-based forensic analysis** of blockchain wallet activity related to a cryptocurrency exploit.  
 It uses **Pandas** for data cleaning and **Plotly** for interactive visualization of transactional behaviors, wallet categories, and relationships between entities (EOAs, smart contracts, and exploit-related addresses).
 
+## Hack Network Diagram 
+
+![Hack Network Diagram](plots/Diagram.png)
+
 ---
 
 ## 🧾 1. Total Transaction Volume by Address Category
@@ -47,7 +51,7 @@ By categorizing and visualizing transactional behaviors, this analysis helps ide
 
 ---
 
-👤 **Author:** [@jlucus](https://github.com/jlucus/ftx.git)
+👤 **Author:** [@jlucus](https://github.com/jlucus/Shuffle2025.git)
 
 
 
