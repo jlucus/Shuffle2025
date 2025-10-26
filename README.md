@@ -5,36 +5,50 @@
 This repository contains a **Python-based forensic analysis** of blockchain wallet activity related to a cryptocurrency exploit.  
 It uses **Pandas** for data cleaning and **Plotly** for interactive visualization of transactional behaviors, wallet categories, and relationships between entities (EOAs, smart contracts, and exploit-related addresses).
 
+---
 
 ## 🧾 1. Total Transaction Volume by Address Category
 
-File: plots/plot1.png
+![Total Transaction Volume by Address Category](plots/newplot.png)
+
 Shows overall transaction flow segmented by entity type, highlighting disproportionate activity in exploit-associated wallets.
+
+---
 
 ## 🧮 2. Smart Contract vs EOA Distribution by Category
 
-File: plots/plot2.png
+![Smart Contract vs EOA Distribution](plots/newplot1.png)
+
 Demonstrates which address categories rely more heavily on smart contracts versus EOAs (Externally Owned Accounts).
+
+---
 
 ## 🔍 3. Transaction Behavior — Received vs Sent
 
-File: plots/plot3.png
-Scatter plot visualizing incoming vs outgoing transaction counts.
+![Transaction Behavior — Received vs Sent](plots/newplot2.png)
+
+Scatter plot visualizing incoming vs outgoing transaction counts.  
 Exploit-related addresses appear as outliers, with asymmetric send/receive ratios.
+
+---
 
 ## 💰 4. Top 10 Addresses by Total TX Volume
 
-File: plots/newplot.png
+![Top 10 Addresses by Total TX Volume](plots/newplot3.png)
+
 Highlights the most active participants in the exploit network, revealing high-frequency wallets linked to MEV bots and laundering nodes.
+
+---
 
 ### 🧠 Research Context
 
-This repository supports blockchain forensic efforts aimed at mapping out post-exploit fund movements.
+This repository supports blockchain forensic efforts aimed at mapping out post-exploit fund movements.  
 By categorizing and visualizing transactional behaviors, this analysis helps identify laundering strategies and CEX/DeFi bridge points used to obfuscate stolen funds.
 
+---
 
+👤 **Author:** [@jlucus](https://github.com/jlucus/ftx.git)
 
-👤 Author: [@jlucus](https://github.com/jlucus/ftx.git) 
 
 
 ---
