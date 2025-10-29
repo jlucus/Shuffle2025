@@ -9,6 +9,8 @@
 
 🟧🟧🟧 Orange: Key persons identified.
 
+🟥🟥🟥 Red: Key wallet addresses identified.
+
 
 
 This repository contains a **Python-based forensic analysis** of blockchain wallet activity related to a cryptocurrency exploit.  
@@ -192,6 +194,7 @@ By combining data-driven labeling with visual analytics, the analysis reveals be
 ### 🪪 License 
 
 This project is released under the MIT License — free to use and modify for research, educational, or investigative purposes.
+
 
 
 
