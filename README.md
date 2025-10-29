@@ -3,11 +3,11 @@
 [Breadcrumbs Report Exports](https://www.breadcrumbs.app/reports/20604)
 <img width="8311" height="3870" alt="image" src="https://github.com/user-attachments/assets/0683bcac-16e0-49d0-81c1-549dbb38ee27" />
 
-Purple: Shuffle-MEV-bots. 
+🟪🟪🟪 Purple: Shuffle-MEV-bots. 
 
-Cyan: Key transactions identified.
+🟦🟦🟦 Cyan: Key transactions identified.
 
-Orange: Key persons identified.
+🟧🟧🟧 Orange: Key persons identified.
 
 
 
@@ -192,5 +192,6 @@ By combining data-driven labeling with visual analytics, the analysis reveals be
 ### 🪪 License 
 
 This project is released under the MIT License — free to use and modify for research, educational, or investigative purposes.
+
 
 
